@@ -1,8 +1,8 @@
 # Laravel 10 - Rental Mobil
 
-## Screenshots
+//## Screenshots
 
-![preview img](/preview.png)
+//![preview img](/preview.png)
 
 ## Donwload
 
@@ -25,6 +25,10 @@ Masuk ke folder dengan perintah
 ```
 
 ```bash
+    composer update
+```
+
+```bash
     php artisan key:generate
 ```
 
@@ -36,7 +40,19 @@ Masuk ke folder dengan perintah
     php artisan storage:link
 ```
 
+```bash
+    php artisan serve
+```
+
+```bash
+    npm install
+    npm run dev
+```
+
 #### Login
 
 -   email = admin@admin.com
 -   password = 123
+-   PHP Version = 8.1.6
+-   Database Version = 15.1
+-   Laravel Version = 10.9.0
