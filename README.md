@@ -34,6 +34,11 @@ Masuk ke folder dengan perintah
 ```
 
 ```bash
+    npm install
+    npm run dev
+```
+
+```bash
     php artisan storage:link
 ```
 
@@ -41,10 +46,7 @@ Masuk ke folder dengan perintah
     php artisan serve
 ```
 
-```bash
-    npm install
-    npm run dev
-```
+
 
 #### Login
 
